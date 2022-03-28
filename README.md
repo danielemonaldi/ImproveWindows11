@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64090606/160433317-19175322-e173-4244-87b3-ad422c694f74.png" alt="image"/>
+</p>
+
 # ImproveWindows11
 Improve your Windows 11 exprerience with these fantastic apps that I recommend.
 
